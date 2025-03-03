@@ -1,7 +1,7 @@
 name: my workflow
 on: push
 
- jobs:
+jobs:
     Onejob:
      runs-on: ubuntu-latest
      steps:
