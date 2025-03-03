@@ -3,7 +3,7 @@ on: push
 
 jobs;
    Onejob:
-    runs-on: ubunt-latest
+    runs-on: ubuntu-latest
     steps:
         - name: print hola
           run: echo "hola"
